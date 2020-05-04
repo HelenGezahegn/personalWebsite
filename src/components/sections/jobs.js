@@ -223,7 +223,7 @@ const Jobs = ({ data }) => {
         {data &&
           data.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { title, url, company, range } = frontmatter;
+            const { title, url, company, range, location } = frontmatter;
             return (
               <StyledTabContent
                 key={i}
@@ -244,6 +244,8 @@ const Jobs = ({ data }) => {
                 </StyledJobTitle>
                 <StyledJobDetails>
                   <span>{range}</span>
+                  <br></br>
+                  <span>{location}</span>
                 </StyledJobDetails>
                 <div dangerouslySetInnerHTML={{ __html: html }} />
               </StyledTabContent>
