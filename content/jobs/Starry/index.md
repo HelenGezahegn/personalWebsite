@@ -1,12 +1,11 @@
 ---
 date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - Dec 2016'
-url: 'https://starry.com/'
+title: 'Computer Science Educator'
+company: 'Faculty of Science'
+location: 'Edmonton, AB'
+range: 'May - Aug 2017'
+url: 'https://www.ualberta.ca/camps/science/index.html'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- Used a game-oriented approach to create lesson plans & lead various computer science & robotic camps for 150+ students.
+- Responsible for leading the all-girls & teen computing camp for kids with autism.
